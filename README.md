@@ -1,1 +1,1 @@
-# jate-TextEditor
+# Text Editor Starter Code
